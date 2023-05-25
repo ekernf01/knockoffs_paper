@@ -1,4 +1,4 @@
-This is the home-page for our paper "Model-X knockoffs reveal data-dependent limits on regulatory network identification." Check out the following repos, each containing a modular piece of the code-base for our work on TRN inference with model-X knockoffs. 
+This is the home-page for our paper ["Model-X knockoffs reveal data-dependent limits on regulatory network identification."](https://www.biorxiv.org/content/10.1101/2023.05.23.541948v1) Check out the following repos, each containing a modular piece of the code-base for our work on TRN inference with model-X knockoffs. 
 
 - Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6573413.svg)](https://doi.org/10.5281/zenodo.6573413)
 - Experiments & figures
