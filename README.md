@@ -11,3 +11,4 @@ This is the home-page for our paper ["Model-X knockoffs reveal data-dependent li
     - [R package](https://github.com/ekernf01/rlookc)
     - Minimal [Python interface](https://github.com/ekernf01/pylookc)
     - Minimal [Julia interface](https://github.com/ekernf01/jlookc)
+    - Our fork of the [GM package](https://github.com/ekernf01/GM)
